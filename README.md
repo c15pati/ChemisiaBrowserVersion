@@ -1,4 +1,4 @@
-# ChemisiaBrowserVersion
+# Chemisia Browser Version
 
 This repository contains the browser version of the game. 
 This version is to be used only in order to connect to a host which runs the game 
